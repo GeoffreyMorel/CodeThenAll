@@ -1,4 +1,4 @@
-# CodeThenAll
+# CodeThemAll
 Webforce3 - Code Them All
 
 ## Mes notes de cours webforce3
